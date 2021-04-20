@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Settings</string>
+    <string name="my_synes"> My Synes</string>
+    <string name="my_lenses">My Lenses</string>
+    <string name="invite_friend">Invite Friend</string>
+    <string name="notifications">Notifications</string>
+    <string name="friends">Friends</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="logout">Logout</string>
+</resources>
